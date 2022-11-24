@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open newproduct.html",
+            "file": "c:\\Users\\User\\Desktop\\Universidad\\6to Semestre\\DESARROLLO APP\\PARCIAL 1\\ACTIVIDADES\\ACT 1\\SameSystem\\src\\views\\layouts\\products\\newproduct.html"
+        }
+    ]
+}
